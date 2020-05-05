@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="parks">Parks And Museums</string>
+    <string name="park_name_1">Kovai Kondattam</string>
+    <string name="park_details_1">Kovai Kondattam is an amusement park located about 2 kilometres away from Perur, in Coimbatore, Tamil Nadu. A fun-filled destination ideal for spending hours of unending entertainment with friends and family, Kodai Kondattam is an eco-friendly theme park. The park was built by Tamil actor Vijay and caters to al large base of visitors with its numerous water-based and dry rides. This destination is not only a popular picnic spot but is also an unlikely venue for conferences, parties, receptions and corporate bookings. Visit this destination for a thrilling adventure.</string>
+    <string name="park_name_2">VOC Park and Zoo</string>
+    <string name="park_details_2">VOC Park and Zoo, also known as the V.O.Chidambaranar Park and is an Amusement Park and Zoological Garden mostly visited by locals of Coimbatore for recreational purposes. The park and zoo is a preferred picnic spot for families who get their kids to have a wonderful time and introduce them to the world of animals. The park has a play area for the kids, an aquarium and a Jurassic Park where not just children but even adults can have fun. It is a perfect place to get the imagination running to build stories. The zoo houses over 500 animals belonging to about 30 species including birds, mammals and reptiles.</string>
+    <string name="park_name_3">Black Thunder</string>
+    <string name="park_details_3">Black Thunder Theme Park is an expansive water park in Coimbatore that covers an area of 75 acres of land and has an array of water-themed rides. Those looking for a splendid escape near Coimbatore in the scorching summer heat must visit the Black Thunder. The park has rides to suit every age group and includes thrilling and relaxing experiences right from Dashing Boats, Volcano, Dragon Coaster, Kiddies pool, Wave pool to a Wild River Ride. One needs to just pack their essentials and head here with their family and friends.</string>
+    <string name="park_name_4">Gass Forest Museum</string>
+    <string name="park_details_4">Gass Forest Museum is a natural history museum in Coimbatore located inside the premises of the Forest College Campus. The museum has several relics of wild and domestic animals stuffed and preserved to make them look real. It invites a lot of tourist influx all through the year.</string>
+    <string name="park_name_5">Gedee Car Museum</string>
+    <string name="park_details_5">Gedee Car Museum is one of the few places in India where one can find cars made in Britain, Japan, France, Germany and America under one roof. The collection of cars is exceptionally well maintained, and all the relevant information about the vehicles on display is mentioned for visitors to learn. It is, therefore, a favourite attraction for automobile freaks and engineering students. Along with the cars built internationally, there are a few Indian cars as well including the prototype of a low car designed by G.D.Naidu. The collection has antiques and some new and rare versions of automobiles</string>
+
+    <string name="restaurants">Restaurants</string>
+    <string name="restaurant_name_1">Barbeque Nation</string>
+    <string name="restaurant_details_1">Barbeque nation stands as one of the major barbeque restaurants across the country. They have pioneered the use of barbeque or grill on the table.</string>
+    <string name="restaurant_name_2">Shree Anandhaas</string>
+    <string name="restaurant_details_2">Basic, unpretentious restaurant serving a menu of vegetarian South Indian meals.</string>
+    <string name="restaurant_name_3">The Pavilion</string>
+    <string name="restaurant_details_3">Refined hotel venue offering global breakfast, lunch , dinner menus , buffets, plus snacks and coffee.</string>
+    <string name="restaurant_name_4">Bird on Tree</string>
+    <string name="restaurant_details_4">Popular, upmarket restaurant offering both Indian and global dishes in a relaxed environment.</string>
+    <string name="restaurant_name_5">The French Door (Café and Restaurant)</string>
+    <string name="restaurant_details_5">Continental and Indian spread offered amid charming French-cafe decor with outdoor seating.</string>
+
+    <string name="holy_places">Holy Places</string>
+    <string name="holy_place_1">Marudhamalai Hill Temple</string>
+    <string name="holy_place_details_1">The Marudhamalai hill temple is located at a towering height of 500 ft in the highland on the Western Ghats.</string>
+    <string name="holy_place_2">Adiyogi Shiva Statue</string>
+    <string name="holy_place_details_2">Surrounded by verdant green farms at the foothills of Velliangiri Mountains in the Western Ghats, Adiyogi Shiva Statue is the world’s biggest bust statue dedicated to the famous Hindu deity Shiva, which is carved out of 500 tonnes of steel. Located in the Isha Yoga Complex in Coimbatore, Tamil Nadu, the sculpture stands tall at the height of 112 feet. The Guinness World Book of Records recognised the statue as the “largest bust sculpture” which is 34.3-metre tall excluding plinth, 45 meters long and 7.62 meters wide. Designed by the founder of Isha Foundation- Sadhguru Jaggi Vasudev, the statue was inaugurated by Prime Minister Narendra Modi on the 24th of February, 2017. The sculpture was constructed with the idea to inspire and promote yoga, and the statue is called “Adiyoga” meaning “the first yogi” as Lord Shiva is known to be the originator of yoga.</string>
+    <string name="holy_place_3">Velliangiri Hill Temple</string>
+    <string name="holy_place_details_3">This revered hill temple is situated some 40 km away from the city Of Coimbatore. The temple has essentially been dedicated to lord Siva and sits on the Velliangiri Hill which has an imperial altitude of 6000 feet.</string>
+    <string name="holy_place_4">Perur Pateeswarar Temple</string>
+    <string name="holy_place_details_4">Arulmigu Patteeswarar Swamy Temple, or the Perur Pateeswarar Temple, is an ancient temple dedicated to Lord Patteeswarar located at a distance of 9 kilometres from the city of Coimbatore. The grand temple has immense religious, cultural and historical importance for the followers and devotees of Lord Patteeswarar who visit from all over the world to offer their prayers. This temple is also commonly known as the temple dedicated to Lord Nataraj. The ancient artwork, paintings, sculptures and carvings attract art lovers too. Arulmigu Patteeswarar Swamy Temple is also one of the biggest temples in Coimbatore.</string>
+    <string name="holy_place_5">Naga Sai Mandir</string>
+    <string name="holy_place_details_5">Naga Sai Mandi is dedicated to Sai Baba and is a famous attraction for the believers and followers of Sai Baba. This is one of the few temples of Sai Baba found in the southern part of the country. Devotees flock in large numbers to offer their prayers, especially on Sundays and Thursdays - the days deemed auspicious by the followers. The temple complex houses the sanctum sanctorum of Sai Baba and smaller shrines dedicated to other Hindu Gods. It is a perfect place to spend some time in peace. Devotees visiting the temple feel blessed at the sight of the divine idol of Sai Baba seen under the Adishesha.</string>
+
+    <string name="attractions">Other Attractions</string>
+    <string name="attractions_name_1">Vydehi Falls</string>
+    <string name="attractions_details_1">The Vydehi water falls is situated some 35 km away from the Coimbatore city. People who pay a visit to Coimbatore must make it a point to visit the Vydehi water falls, as it is one of the most familiar water fall and is highly known for its magnificence.</string>
+    <string name="attractions_name_2">Siruvani Dam</string>
+    <string name="attractions_details_2">Siruvani dam is situated some 37 kilometres to the west of Coimbatore city amidst the lush green Western Ghats. Siruvani dam is the chief source to supply water to Coimbatore city. The dam is intertwined by underways and aqueducts for harnessing the hydel energy for power generation and irrigation purposes from Aliyar, Parambikulam, Nirar, Sholiyar, Thunakadavu, Palar, Thekadi rivers.</string>
+    <string name="attractions_name_3">Monkey Falls</string>
+    <string name="attractions_details_3">Monkey Falls, Enveloped between evergreen forests and rocky cliffs, the alluring waterfall brings together the entire scenery. Anyone in earshot of the humming Monkey Waterfalls is inevitably drawn to these melodious sounds. The water swishes across the rocks joyfully and dives into a pool of water as clear as cellophane.</string>
+    <string name="attractions_name_4">Brookefields Mall</string>
+    <string name="attractions_details_4">Brookefields Mall is an attraction famous for shopping and recreational activities in Coimbatore. From apparel to shoes and accessories, you name it, and they have it. It is a perfect place to buy stylish and trendy outfits or to put a look together for an important event. The mall also has many other facilities that tourists can use for recreational purposes and get a glimpse into the happening lifestyle of Coimbatore. Other than shopping, Brookefields Mall also has a food court that serves cuisine of various varieties. The mall also has parking facilities, a Gaming Zone, Fun City and a Multiplex Cinema with six screens. The enormous area makes it one of the biggest malls in the city and a perfect attraction for all age groups, from the elderly to toddlers to spend one entire day bonding over a few fun activities and a meal.</string>
+    <string name="attractions_name_5">Nilgiri Biosphere Nature Park</string>
+    <string name="attractions_details_5">Established in 1936, Nilgiri Biosphere Reserve or Nilgiri Biosphere Nature Park is an initiative of the government to preserve the rich flora and fauna of the Nilgiris. The park boasts of over 430 species of 25,000 plants in addition to several species of mammals, reptiles, birds etc.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

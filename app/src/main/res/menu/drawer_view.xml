@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/restuarant_fragment"
+            android:checked="true"
+            android:title="@string/restaurants" />
+        <item
+            android:id="@+id/temples_fragment"
+            android:title="@string/holy_places" />
+        <item
+            android:id="@+id/parks_fragment"
+            android:title="@string/parks" />
+        <item
+            android:id="@+id/other_attractions_fragment"
+            android:title="@string/attractions" />
+    </group>
+</menu>

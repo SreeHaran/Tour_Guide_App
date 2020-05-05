@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_item"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="32dp">
+
+    <ImageView
+        android:id="@+id/list_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="fill"
+        tools:src="@drawable/ic_launcher_background" />
+
+    <TextView
+        android:id="@+id/list_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:minHeight="64dp"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        tools:text="Location Name" />
+
+    <TextView
+        android:id="@+id/list_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="4"
+        android:textSize="24sp"
+        android:textStyle="italic"
+        tools:text="Location details" />
+
+</LinearLayout>
