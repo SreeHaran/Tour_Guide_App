@@ -14,15 +14,6 @@
    This fragment includes parks and museums to an amazing experience in Coimbatore
    #### 4) OtherAttraction Fragment
    this includes some nutral scenary places to visit in coimbatore to get a magnificent view of the city.
-
-***
-
-## Screenshot   
-  [<img align="left" src="assets/Screenshot_1.jpg" width="275px">](assets/Screenshot_1.jpg)
-  [<img align="left" src="assets/Screenshot_2.jpg" width="275px">](assets/Screenshot_2.jpg)
-  [<img align="left" src="assets/Screenshot_3.jpg" width="275px">](assets/Screenshot_3.jpg)
-  [<img align="left" src="assets/Screenshot_4.jpg" width="275px">](assets/Screenshot_4.jpg)
-  [<img align="left" src="assets/Screenshot_5.jpg" width="275px">](assets/Screenshot_5.jpg)
   
 ***
 
@@ -53,3 +44,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
+
+
+***
+
+## Screenshot   
+  [<img align="left" src="assets/Screenshot_1.jpg" width="275px">](assets/Screenshot_1.jpg)
+  [<img align="left" src="assets/Screenshot_2.jpg" width="275px">](assets/Screenshot_2.jpg)
+  [<img align="left" src="assets/Screenshot_3.jpg" width="275px">](assets/Screenshot_3.jpg)
+  [<img align="left" src="assets/Screenshot_4.jpg" width="275px">](assets/Screenshot_4.jpg)
+  [<img align="left" src="assets/Screenshot_5.jpg" width="275px">](assets/Screenshot_5.jpg)
